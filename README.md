@@ -20,7 +20,7 @@ Hi, I'm Miguel Gómez!
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision, Machine Learning and DevOps stuff
 🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently looing for a job opportunity, this is <a href="https://drive.google.com/file/d/1U8wDWxdd1QXAz7qtyJLydAu3DeJ3MH5v/view?usp=drive_link" target="_blank">my updated resume.</a>
+🤔 I’m currently looking for a job opportunity, this is <a href="https://drive.google.com/file/d/1U8wDWxdd1QXAz7qtyJLydAu3DeJ3MH5v/view?usp=drive_link" target="_blank">my updated resume.</a>
 </pre>
 <br/>
 
