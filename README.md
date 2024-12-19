@@ -14,13 +14,12 @@ Hi, I'm Miguel Gómez!
 </p>
 
 <pre>
-💻 I am a self taught Machine Learning Developer and a Full Stack Developer
+💻 I am a Software Engineer
 📚 I have a Bachelors in Computer Science from the University of Zaragoza
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision, Machine Learning and DevOps stuff
 🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently looking for a job opportunity, this is <a href="https://drive.google.com/file/d/1U8wDWxdd1QXAz7qtyJLydAu3DeJ3MH5v/view?usp=drive_link" target="_blank">my updated resume.</a>
 </pre>
 <br/>
 
